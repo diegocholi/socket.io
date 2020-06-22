@@ -1,4 +1,4 @@
-# API-RestFull + Node JS
+# WEB SOCKET
 
 ## Preparação de ambiente
 
